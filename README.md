@@ -1,0 +1,4 @@
+LearningDocumentNotes
+=====================
+
+Notes while learning
